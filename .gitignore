@@ -1,9 +1,9 @@
 /bin/*
 /log/*
 /doc/
-/lib/
 /.crystal/
 /.shards/
+/log2sqlite
 
 
 # Libraries don't need dependency lock
