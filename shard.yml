@@ -1,0 +1,11 @@
+name: crystal_nginx_log2sqlite
+version: 0.01.0
+
+dependencies:
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+
+authors:
+  - Andrew Chernuha(chaky) <chaky22222222@gmail.com>
+
+license: MIT
