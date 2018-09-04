@@ -1,3 +1,9 @@
+# module Log2SQLite
+#   DATE_FORMAT = "%F %H:%M:%S.%L"
+#   # :nodoc:
+#   TIME_ZONE = Time::Location::UTC
+# end
+
 module DB
   class Database
     def query_all5(query, *args, as types : NamedTuple)
