@@ -1,3 +1,0 @@
-class LogParserRow
-
-end

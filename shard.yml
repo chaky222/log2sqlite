@@ -1,4 +1,4 @@
-name: crystal_nginx_log2sqlite
+name: log2sqlite
 version: 0.01.0
 
 dependencies:
