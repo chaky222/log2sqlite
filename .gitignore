@@ -1,5 +1,6 @@
 /bin/*
 /log/*
+/log/*
 /doc/
 /.crystal/
 /.shards/
@@ -13,3 +14,4 @@
 !/log/.keep
 !/bin/.keep
 !/bin/test.sh
+!/lib/.keep
