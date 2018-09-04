@@ -2,8 +2,13 @@ name: log2sqlite
 version: 0.01.0
 
 dependencies:
+  db:
+    github: crystal-lang/crystal-db
+    version: 0.5.0
+
   sqlite3:
     github: crystal-lang/crystal-sqlite3
+    version: 0.10.0
 
 authors:
   - Andrew Chernuha(chaky) <chaky22222222@gmail.com>
